@@ -2,7 +2,7 @@
 layout: post
 title: 변수와 값
 date: 2022-02-01 20:33 +0900
-categories: [Blogging, Javascript]
+categories: [TIL, Javascript]
 tags: [Javascript, value]
 ---
 
