@@ -16,3 +16,9 @@ Gemfile.lock
 # npm dependencies
 node_modules
 package-lock.json
+
+# darfts
+__drafts/
+
+# prettier
+.prettierignore
