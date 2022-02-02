@@ -1,12 +1,9 @@
 ---
 layout: post
-title: 70. PROJECT
-categories:
-- 강의기록
-- U)Javascript
-tags:
-- challenge
+title: 70. PROJECT.1 업다운
 date: 2022-02-02 21:03 +0900
+categories: [강의기록, U)Javascript]
+tags: [challenge]
 ---
 ## 70. PROJECT #1: 숫자 맞추기 (UpDown)
 
